@@ -5,3 +5,4 @@
 # git commit -m "specific commit message"   ___% commits all stages from staging area to present branch with -m <-message
 # git checkout -b branch1   ___% create new branch with the name branch1
 # git checkout master   ___% switch branch to master
+# git merge master   ___% merge present branch with master branch
