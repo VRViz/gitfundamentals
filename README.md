@@ -8,3 +8,4 @@
 # git merge master   ___% merge present branch with master branch
 # git remote add origin https://github.com/VRViz/gitfundamentals.git   ___% add remote github repository
 # git push -u origin master   ___% push all commits to remote origin master repository  (-u means saved settings, so >git push< will in future be enough to commit to origin master)
+# git pull origin master   ___% pull origin master branch
